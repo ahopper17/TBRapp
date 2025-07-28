@@ -55,9 +55,9 @@ function Home() {
               </div>
             </div>
 
-            {/* <div className="cat-photo-container">
+            <div className="cat-photo-container">
               <img src="/TBRapp/Felix-small.jpeg" alt="Felix" className="cat-photo" />
-            </div> */}
+            </div>
           </motion.div>
 
           {/* Secondary content */}
